@@ -8,7 +8,7 @@
     timestamp: '2022-11-12T00:58:16+09:00',
     url: 'https://github.com/sori883/testGithubApp/commit/296577affe7981f2897aad2e427e85154f3ba081',
     author: {
-      name: 'sorinaji',
+      name: 'sorinaji',sdsdsd
       email: '37400002+sori883@users.noreply.github.com',
       username: 'sori883'
     },
