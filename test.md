@@ -20,7 +20,7 @@ tanomu ownersdsdsdsdsssssssssssss
     'transfer-encoding': 'chunked',
     vary: 'Accept, Authorization, Cookie, X-GitHub-OTP, Accept-Encoding, Accept, X-Requested-With',
     'x-content-type-options': 'nosniff',
-    'x-frame-options': 'deny',
+    'x-frame-options': 'deny',ss
     'x-github-media-type': 'gisthub.v3; format=json',
     'x-github-request-id': '6223:29AD:16FB07:18C4DE:636E4B7B',
     'x-ratelimit-limit': '5000',
