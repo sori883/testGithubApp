@@ -36,7 +36,7 @@ tanomu ownersdsdsdsdsssssssssssss
       path: 'README.md',
       sha: '4558b351790e670b05a65a4e63a38e0c8cb2fb78',
       size: 15,
-      url: 'https://api.github.com/repos/sori883/testGithubApp/contents/README.md?ref=main',
+      url: 'https://api.github.com/repos/sori883/testGithubsssApp/contents/README.md?ref=main',
       html_url: 'https://github.com/sori883/testGithubApp/blob/main/README.md',
       git_url: 'https://api.github.com/repos/sori883/testGithubApp/git/blobs/4558b351790e670b05a65a4e63a38e0c8cb2fb78',
       download_url: 'https://raw.githubusercontent.com/sori883/testGithubApp/main/README.md',
