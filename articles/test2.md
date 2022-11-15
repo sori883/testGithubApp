@@ -1,8 +1,8 @@
 ---
-title: Welcome to JS YAML Front Matter
+title: aaa
 slug: hohoho
 published: true
-imageId: 52
-tagIds: [43]
+imagePath: image/test/screenshot.49.jpg
+tagNames: aws
 ---
 ssssssssssss
