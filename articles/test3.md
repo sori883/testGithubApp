@@ -2,7 +2,7 @@
 title: aaaas
 slug: hohssoho
 published: true
-imagePath: images/test/screenshot.92.jpg
+imagePath: 
 tagNames: aws,next
 ---
 sssssssssssssssssssssssssssssssssssssssss
