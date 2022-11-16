@@ -2,7 +2,7 @@
 title: Welcome to JS YAML Front Matter
 slug: ahoge
 published: false
-imageId: 52
+imageId: 
 tagIds: [43]
 ---
 北海道
