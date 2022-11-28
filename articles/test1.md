@@ -1,6 +1,6 @@
 ---
 title: aaa
-slug: aa
+slug: aas
 published: true
 imagePath: image/test/screenshot.49.jpg
 tagNames: test
