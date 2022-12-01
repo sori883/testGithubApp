@@ -1,5 +1,5 @@
 ---
-title: 更新のやつがおかしい？
+title: たのむよ
 slug: windows-update
 published: true
 tagNames: [test,unko,doraemon,mama,baka]
