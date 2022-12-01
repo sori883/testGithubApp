@@ -1,7 +1,8 @@
 ---
-title: たのむよ
+title: むりぽ
 slug: windows-update
 published: true
-tagNames: [test,unko,doraemon,mama,baka]
+tagNames: [test,unko,doraemon,mama]
 ---
 なんかやばそうね
+まじでやばいよ
