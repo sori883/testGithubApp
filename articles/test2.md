@@ -1,7 +1,8 @@
 ---
-title: sorinasssss
+title: これにかえろ
 slug: windows-update
 published: true
-tagNames: [test,unko,doraemon,mama]
+tagNames: [test]
 ---
-soosososo
+頼むからかわって...  
+お願い。。。
